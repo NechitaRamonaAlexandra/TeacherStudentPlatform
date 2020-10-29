@@ -1,0 +1,16 @@
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SDBLog.mdf
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SDBLog_log.ldf
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DBApp.csprojAssemblyReference.cache
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UniversityAppPanel.resources
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SLogin.resources
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DBApp.csproj.GenerateResource.cache
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DBApp.csproj.CoreCompileInputs.cache
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.teacherLogIn.resources
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.studentPage.resources
+C:\Users\nechi\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.regForm.resources
